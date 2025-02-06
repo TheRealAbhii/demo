@@ -13,6 +13,8 @@ int main()
     int num;
 
     printf("Enter a number: ");
+    printf("Enter a good number: ");
+    printf("done!!");
     scanf("%d", &num);
 
     if (num < 0) {
